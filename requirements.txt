@@ -1,0 +1,6 @@
+aiohttp
+pandas
+pycaret
+flask
+apscheduler
+python-dotenv
